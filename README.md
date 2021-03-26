@@ -89,7 +89,7 @@ This repository contains 4 main files:
 - **ddpg_agent.py** decribes the Agent class and contains how the agents act and learn.
 - **continuous_control_ddpg.ipynb** this is the notebook you may want to run to train a new agent or modify the existing one.
 - **run_trained_agent.ipynb** this is the notebook that you need to run if you want to see the performance of the already trained agents.
-- **utils.py" contains a utility function to load  a trained agent.
+- **utils.py** contains a utility function to load  a trained agent.
 
 The file Report.md contains an a briefly explanation of the algorithms used to train the agent.
 
